@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.7'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
-gem 'administrate', git: 'https://github.com/thoughtbot/administrate', branch: 'master'
+gem 'administrate', git: 'https://github.com/Pezmc/administrate', branch: 'bug-format-time-fields-as-time'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console

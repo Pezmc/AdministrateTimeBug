@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/thoughtbot/administrate
-  revision: 246175b5ee49fc6b059b100079898db853976a3c
-  branch: master
+  remote: https://github.com/Pezmc/administrate
+  revision: 554af846651c2d05e930818a9d4f8c048188bf67
+  branch: bug-format-time-fields-as-time
   specs:
     administrate (0.13.0)
       actionpack (>= 4.2)
