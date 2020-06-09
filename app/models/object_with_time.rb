@@ -1,0 +1,2 @@
+class ObjectWithTime < ApplicationRecord
+end
